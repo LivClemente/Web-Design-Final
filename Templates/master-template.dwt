@@ -16,7 +16,7 @@
     </div>
    	<div class="navigation">
         	<div align="center">
-        	  <table>
+        	  <table align="center">
         	    <tr>	
         	      <td width="38"><a href="../index.html">Home</a></td>	
         	      <td width="57"><a href="../Schedule/untitled.html">Schedule</a></td>
@@ -25,10 +25,15 @@
         	      <td width="45"><a href="../Articles/untitled.html">Articles</a></td>
        	        </tr>
        	      </table>
-      	  </div>
+   	  </div>
       </div>
-        <div class="content"><!-- TemplateBeginEditable name="Content" -->Content<!-- TemplateEndEditable -->
-        </div>
+      
+        <div class="content"><!-- TemplateBeginEditable name="Content" -->	
+   
+        Content
+        <!-- TemplateEndEditable -->
+     
+       </div>
         <div class="footer">
           <div align="center"><!-- TemplateBeginEditable name="footer" -->174 Williams Rd. Troy, NY 12180   Phone: (518) 283-2500 Fax: (518)-283-6265<!-- TemplateEndEditable -->
           </div>
