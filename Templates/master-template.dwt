@@ -18,11 +18,11 @@
         	<div align="center">
         	  <table align="center">
         	    <tr>	
-        	      <td width="38"><a href="../index.html">Home</a></td>	
-        	      <td width="57"><a href="../Schedule/untitled.html">Schedule</a></td>
-        	      <td width="42"><a href="../Roster/untitled.html">Roster</a></td>
-        	      <td width="88"><a href="../Image Gallery/untitled.html">Image Gallery</a></td>
-        	      <td width="45"><a href="../Articles/untitled.html">Articles</a></td>
+        	      <td width="38" bgcolor="#DDDDDD"><div align="center"><a href="../index.html">Home</a></div></td>	
+        	      <td width="57" bgcolor="#DDDDDD"><div align="center"><a href="../Schedule/untitled.html">Schedule</a></div></td>
+        	      <td width="42" bgcolor="#DDDDDD"><div align="center"><a href="../Roster/untitled.html">Roster</a></div></td>
+        	      <td width="88" bgcolor="#DDDDDD"><div align="center"><a href="../Image Gallery/gallery.html">Image Gallery</a></div></td>
+        	      <td width="45" bgcolor="#DDDDDD"><div align="center"><a href="../Articles/untitled.html">Articles</a></div></td>
        	        </tr>
        	      </table>
    	  </div>

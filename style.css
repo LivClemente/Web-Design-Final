@@ -18,3 +18,24 @@ body {
 	padding-bottom: 0px;
 	padding-left: 0px;
 }
+.wrapper .content #gallery {
+	padding: 50px;
+	height: auto;
+	width: auto;
+}
+.wrapper {
+	border: thin solid #000;
+}
+.wrapper .content p {
+	margin: 20px;
+	padding: 20px;
+}
+.wrapper .content table {
+	margin: 20px;
+	padding: 70px;
+	border: thin solid #00C;
+	width: 364px;
+	font-size: 16px;
+	font-style: oblique;
+	top: auto;
+}
