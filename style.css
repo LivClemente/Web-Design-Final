@@ -76,7 +76,17 @@ body {
 }
 .wrapper .content div table {
 	border: medium solid #000;
+	width: 364px;
+}
+.wrapper .content table {
+	width: 200px;
+	height: 10px;
 }
 .wrapper .content p a img {
 	border: medium solid #000;
+}
+a:hover {
+	text-transform: uppercase;
+	color: #009;
+	background-color: #009;
 }
