@@ -42,6 +42,7 @@ body {
 	margin: 20px;
 	padding: 20px;
 	font-size: 12px;
+	border: thin solid #000;
 }
 .wrapper .content table {
 	margin: 20px;
@@ -55,4 +56,7 @@ body {
 .wrapper .content div img {
 	margin: 20px;
 	padding: 20px;
+}
+.wrapper .footer {
+	background-color: #BBB;
 }
