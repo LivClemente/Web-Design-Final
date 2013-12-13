@@ -30,6 +30,19 @@ body {
 	margin: 20px;
 	padding: 20px;
 }
+.wrapper .content {
+	border: medium solid #009;
+	width: auto;
+	padding: 20px;
+	margin: 20px;
+	background-color: #EEE;
+	background-image: none;
+}
+.wrapper .footer {
+	margin: 20px;
+	padding: 20px;
+	font-size: 12px;
+}
 .wrapper .content table {
 	margin: 20px;
 	padding: 70px;
@@ -38,4 +51,8 @@ body {
 	font-size: 16px;
 	font-style: oblique;
 	top: auto;
+}
+.wrapper .content div img {
+	margin: 20px;
+	padding: 20px;
 }
