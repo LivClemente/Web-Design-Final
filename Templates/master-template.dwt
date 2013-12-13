@@ -16,13 +16,13 @@
     </div>
    	<div class="navigation">
         	<div align="center">
-        	  <table align="center">
-        	    <tr>	
-        	      <td width="38" bgcolor="#DDDDDD"><div align="center"><a href="../index.html">Home</a></div></td>	
-        	      <td width="57" bgcolor="#DDDDDD"><div align="center"><a href="../Schedule/untitled.html">Schedule</a></div></td>
-        	      <td width="42" bgcolor="#DDDDDD"><div align="center"><a href="../Roster/untitled.html">Roster</a></div></td>
-        	      <td width="88" bgcolor="#DDDDDD"><div align="center"><a href="../Image Gallery/gallery.html">Image Gallery</a></div></td>
-        	      <td width="45" bgcolor="#DDDDDD"><div align="center"><a href="../Articles/untitled.html">Articles</a></div></td>
+        	  <table width="951" align="center">
+        	    <tr bgcolor="#EEEEEE">	
+        	      <td width="38"><div align="center"><a href="../index.html">Home</a></div></td>	
+        	      <td width="57"><div align="center"><a href="../Schedule/untitled.html">Schedule</a></div></td>
+        	      <td width="42"><div align="center"><a href="../Roster/untitled.html">Roster</a></div></td>
+        	      <td width="88"><div align="center"><a href="../Image Gallery/gallery.html">Image Gallery</a></div></td>
+        	      <td width="45"><div align="center"><a href="../Articles/untitled.html">Articles</a></div></td>
        	        </tr>
        	      </table>
    	  </div>

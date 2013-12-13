@@ -52,6 +52,8 @@ body {
 	font-size: 16px;
 	font-style: oblique;
 	top: auto;
+	background-color: #005CA8;
+	color: #EEE;
 }
 .wrapper .content div img {
 	margin: 20px;
@@ -59,4 +61,22 @@ body {
 }
 .wrapper .footer {
 	background-color: #BBB;
+}
+.wrapper .navigation div table tr td div {
+	border: medium solid #339;
+	margin: 5px;
+	padding: 5px;
+	height: auto;
+	width: auto;
+	font-size: 16px;
+}
+.wrapper .content div p img {
+	border: medium solid #000;
+	background-color: #0059A3;
+}
+.wrapper .content div table {
+	border: medium solid #000;
+}
+.wrapper .content p a img {
+	border: medium solid #000;
 }
