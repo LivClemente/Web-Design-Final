@@ -77,6 +77,10 @@ body {
 .wrapper .content div table {
 	border: medium solid #000;
 	width: 364px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-style: normal;
+	color: #EEE;
+	font-weight: bolder;
 }
 .wrapper .content table {
 	width: 200px;
